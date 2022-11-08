@@ -1,7 +1,7 @@
 ## Bio
 
-Trying to waste my time with God.
-Big bag of Bible Study notes at [Theologicus](https://github.com/joelouthan/theologic.us). 
+Trying to waste my time with God.  
+Big bag of Bible Study notes at [Theologicus](https://github.com/joelouthan/theologic.us).  
 StarCraft 2 Elderly.
 
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz%2311728-blue)](https://starcraft2.com/en-us/profile/1/1/9753175)
