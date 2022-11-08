@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 ## About
-```text
+
 Trying to waste my time with God.
 Big bag of Bible Study notes at [Theologicus](https://github.com/joelouthan/theologic.us). 
 StarCraft 2 Elderly.
-```
-[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz%2311728-blue)](https://github.com/JacobCallahan)
-[![GitHub Jake](https://img.shields.io/github/followers/JacobCallahan?label=follow&style=social)](https://github.com/JacobCallahan)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWFrz-jZFzOYIsk-X4TQt-g?style=social)](https://youtube.com/c/JakeCallahan)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWFrz-jZFzOYIsk-X4TQt-g?style=social)](https://youtube.com/c/JakeCallahan/videos)
+
+[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz%2311728-blue)](https://starcraft2.com/en-us/profile/1/1/9753175)
+[![YouTube]https://img.shields.io/youtube/channel/subscribers/UC2OGCVvHpHJo9dTVSSDz7ZQ?style=social]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JakeJCallahan?style=social)](https://twitter.com/JakeJCallahan)
 
 ## GitHub Stats
