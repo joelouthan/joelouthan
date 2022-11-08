@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## About
+## Bio
 
 Trying to waste my time with God.
 Big bag of Bible Study notes at [Theologicus](https://github.com/joelouthan/theologic.us). 
@@ -12,7 +10,9 @@ StarCraft 2 Elderly.
 
 ## GitHub Stats
 
-[![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs)](https://github.com/joelouthan)
+[![Stats](https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs)](https://github.com/joelouthan)
+
+## Top Repos
 
 [![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
