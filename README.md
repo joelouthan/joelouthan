@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+## About
+```text
+Trying to waste my time with God.
+Big bag of Bible Study notes at [Theologicus](https://github.com/joelouthan/theologic.us). 
+StarCraft 2 Elderly.
+```
+[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz%2311728-blue)](https://github.com/JacobCallahan)
+[![GitHub Jake](https://img.shields.io/github/followers/JacobCallahan?label=follow&style=social)](https://github.com/JacobCallahan)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWFrz-jZFzOYIsk-X4TQt-g?style=social)](https://youtube.com/c/JakeCallahan)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWFrz-jZFzOYIsk-X4TQt-g?style=social)](https://youtube.com/c/JakeCallahan/videos)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JakeJCallahan?style=social)](https://twitter.com/JakeJCallahan)
+
+## GitHub Stats
+
+<a href="https://github.com/JacobCallahan/JacobCallahan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobCallahan&show_icons=true&line_height=27&count_private=true&theme=radical&hide=contribs" alt="Jake's GitHub Stats" />
+</a>
+
+<a href="https://github.com/JacobCallahan/JacobCallahan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobCallahan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
+</a>
+
+<a href="https://github.com/JacobCallahan/Understanding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobCallahan&repo=Understanding&&theme=radical" />
+</a>
+
 <!--
 **joelouthan/joelouthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
