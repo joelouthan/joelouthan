@@ -8,11 +8,11 @@ StarCraft 2 Elderly.
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2OGCVvHpHJo9dTVSSDz7ZQ?style=social)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/josephlouthan?style=social)](https://twitter.com/josephlouthan)
 
-## GitHub Stats
+## Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs)](https://github.com/joelouthan)
 
-## Top Repos
+## Pinned Repos
 
 [![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
