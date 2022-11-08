@@ -13,14 +13,14 @@ StarCraft 2 Elderly.
 ## GitHub Stats
 
 <a href="https://github.com/joelouthan/joelouthan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=radical&hide=contribs" alt="Joseph's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=merko&hide=contribs" alt="Joseph's GitHub Stats" />
 </a>
 
 <a href="https://github.com/joelouthan/joelouthan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelouthan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelouthan&hide=tex,css&&theme=merko&langs_count=6&layout=compact" />
 </a>
 
-[![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=radical)](https://github.com/joelouthan/theologic.us)
+[![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=merko)](https://github.com/joelouthan/theologic.us)
 
 <!--
 **joelouthan/joelouthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
