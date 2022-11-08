@@ -8,20 +8,20 @@ StarCraft 2 Elderly.
 
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz%2311728-blue)](https://starcraft2.com/en-us/profile/1/1/9753175)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2OGCVvHpHJo9dTVSSDz7ZQ?style=social)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JakeJCallahan?style=social)](https://twitter.com/JakeJCallahan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/josephlouthan?style=social)](https://twitter.com/josephlouthan)
 
 ## GitHub Stats
 
-<a href="https://github.com/JacobCallahan/JacobCallahan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobCallahan&show_icons=true&line_height=27&count_private=true&theme=radical&hide=contribs" alt="Jake's GitHub Stats" />
+<a href="https://github.com/joelouthan/joelouthan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=radical&hide=contribs" alt="Joseph's GitHub Stats" />
 </a>
 
-<a href="https://github.com/JacobCallahan/JacobCallahan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobCallahan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
+<a href="https://github.com/joelouthan/joelouthan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelouthan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
 </a>
 
-<a href="https://github.com/JacobCallahan/Understanding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobCallahan&repo=Understanding&&theme=radical" />
+<a href="https://github.com/joelouthan/Understanding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=Understanding&&theme=radical" />
 </a>
 
 <!--
