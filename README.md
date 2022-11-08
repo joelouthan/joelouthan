@@ -20,7 +20,7 @@ StarCraft 2 Elderly.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelouthan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
 </a>
 
-<a href="https://github.com/joelouthan/Understanding">
+<a href="https://github.com/joelouthan/theologic.us">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&&theme=radical" />
 </a>
 
