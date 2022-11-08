@@ -20,7 +20,7 @@ StarCraft 2 Elderly.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelouthan&hide=tex,css&&theme=radical&langs_count=6&layout=compact" />
 </a>
 
-[![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us)](https://github.com/joelouthan/theologic.us)
+[![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=radical)](https://github.com/joelouthan/theologic.us)
 
 <!--
 **joelouthan/joelouthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
