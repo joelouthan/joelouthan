@@ -18,7 +18,7 @@ StarCraft 2 Elderly.
 
 [![Writing Template Generator](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
 
-## Have I Wrote This Week?
+## Have I Written Anything This Week?
 [![My writing stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
 <!--
