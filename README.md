@@ -4,9 +4,9 @@ Trying to waste my time with God.
 Big bag of Bible Study notes at [Theologicus](https://theologic.us).  
 StarCraft 2 Elderly.
 
-[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz%2311728-blue?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2OGCVvHpHJo9dTVSSDz7ZQ?style=social)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/josephlouthan?style=social)](https://twitter.com/josephlouthan)
+[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-blue?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2OGCVvHpHJo9dTVSSDz7ZQ?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
+[![Twitter Follow](https://img.shields.io/twitter/follow/josephlouthan?style=for-the-badge&logo=twitter)](https://twitter.com/josephlouthan)
 
 ## Stats
 
