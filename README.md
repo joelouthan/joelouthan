@@ -19,7 +19,7 @@ StarCraft 2 Elderly.
 [![Writing Template Generator](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
 
 ## Have I Wrote This Week?
-[![Writing Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joelouthan)](https://github.com/joelouthan/theologic.us)
+[![My writing stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
 <!--
 **joelouthan/joelouthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
