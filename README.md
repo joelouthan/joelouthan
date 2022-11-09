@@ -11,7 +11,7 @@ StarCraft 2 Elderly.
 
 ## Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs)](https://github.com/joelouthan)
+[![Stats](https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
 ## Pinned Repos
 
