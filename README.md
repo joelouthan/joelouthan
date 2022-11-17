@@ -20,6 +20,8 @@
 ## Have I Written Anything This Week?
 [![My writing stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
+< dir="auto"> <a href="https://bibly.com/@joseph" rel="me">Mastodon Verification</a> = $0 </p>
+
 <!--
 **joelouthan/joelouthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
