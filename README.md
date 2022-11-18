@@ -2,6 +2,7 @@
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
+[![Showwcase](https://img.shields.io/badge/Showwcase-joelouthan-D17FF3?style=for-the-badge)](https://joelouthan.showwcase.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
 [![Mastodon](https://img.shields.io/badge/Mastodon-joseph@bibly.com-6D6EFE?domain=https%3A%2F%2Fbibly.com&style=for-the-badge&logo=mastodon)](https://bibly.com/@joseph)
 [![Twitter](https://img.shields.io/badge/Twitter-josephlouthan-blue?style=for-the-badge&logo=twitter)](https://twitter.com/josephlouthan)
