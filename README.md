@@ -1,5 +1,9 @@
 ![](https://theologic.us/images/github-banner-thor2-3.png)
 
+## What can I do?
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+
 ## Where am I at?
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
@@ -11,10 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-josephlouthan-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/josephlouthan/)
 [![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
-
-## What can I do?
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
 ## What have I done?
 
