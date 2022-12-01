@@ -1,10 +1,10 @@
-![](https://theologic.us/images/github-banner-thor2-3.png)
+[![](https://theologic.us/images/github-banner-thor2-3.png)](https://theologic.us/)
 
-## What can I do?
+# What can I do?
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
-## Where am I at?
+# Where am I at?
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
