@@ -4,8 +4,7 @@
 
 # What can I do?
 
-[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
-[![CSM](csm-98x98.png)](https://bcert.me/sqqjyozaw)
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img width="50" height="50" src="csm-98x98.png"></a>[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
 # Where am I at?
 
