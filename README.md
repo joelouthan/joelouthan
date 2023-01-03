@@ -33,4 +33,4 @@
 
 # Have I done anything this week?
 [![My writing stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=kumartul&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joelouthan&theme=dark)
