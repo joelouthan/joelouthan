@@ -21,16 +21,16 @@
 
 # What have I done?
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
+[![Stats](https://github-readme-stats-iivg-joelouthan.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
 # What am I working on?
 
-[![Theologicus](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+[![Theologicus](https://github-readme-stats-iivg-joelouthan.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
-[![Writing Template Generator](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
+[![Writing Template Generator](https://github-readme-stats-iivg-joelouthan.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
 
-[![Ansible Basics](https://github-readme-stats.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
+[![Ansible Basics](https://github-readme-stats-iivg-joelouthan.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
 # Have I done anything this week?
-[![My writing stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)  
+[![My writing stats](https://github-readme-stats-iivg-joelouthan.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joelouthan&theme=dark)
