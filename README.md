@@ -1,6 +1,6 @@
 # Who
 
-[![](github-banner-thor2-3.png)](https://theologic.us/)
+[![](github-banner-thor-writer-manager-tech.jpg)](https://theologic.us/)
 
 # What can I do?
 
