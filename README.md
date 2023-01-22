@@ -1,12 +1,12 @@
-# Who
+## who
 
-[![](github-banner-thor-writer-manager-tech.jpg)](https://theologic.us/)
+[![](banner.jpg)](https://theologic.us/)
 
-# What can I do?
+## What can I do?
 
 <a href="https://bcert.me/sqqjyozaw" target="_blank"><img width="50" height="50" src="csm-98x98.png"></a>[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
-# Where am I at?
+## Where am I at?
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
@@ -19,11 +19,11 @@
 [![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
-# What have I done?
+## What have I done?
 
 [![Stats](https://github-readme-stats-iivg-joelouthan.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
-# What am I working on?
+## What am I working on?
 
 [![Theologicus](https://github-readme-stats-iivg-joelouthan.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
@@ -31,6 +31,6 @@
 
 [![Ansible Basics](https://github-readme-stats-iivg-joelouthan.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
-# Have I done anything this week?
+## Have I done anything this week?
 [![My writing stats](https://github-readme-stats-iivg-joelouthan.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joelouthan&theme=dark)
