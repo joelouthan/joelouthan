@@ -32,5 +32,6 @@
 [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
 ## Have I done anything this week?
-[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)  
+[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joelouthan&theme=dark)
