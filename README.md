@@ -34,4 +34,4 @@
 ## Have I done anything this week?
 [![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joelouthan&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
