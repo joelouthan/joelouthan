@@ -1,8 +1,8 @@
-## Whomst
+## 4 Alarm Blaze by M.O.P feat. Teflon & Jay-Z
 
 [![](banner.jpg)](https://theologic.us/)
 
-## Time's Up by O.C.
+## House of Flying Daggers by Raekwon feat. Inspectah Deck, Ghostface Killah & Method Man
 
 <a href="https://bcert.me/sqqjyozaw" target="_blank"><img width="50" height="50" src="csm-98x98.png"></a>[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
