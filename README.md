@@ -1,4 +1,4 @@
-## 4 Alarm Blaze by M.O.P feat. Teflon & Jay-Z
+## It's a Long Way to the Top If You Wanna Rock n' Roll by AC/DC
 
 [![](banner.jpg)](https://theologic.us/)
 
