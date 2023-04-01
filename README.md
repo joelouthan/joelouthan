@@ -4,9 +4,15 @@
 
 ## What I do
 
-<a href="https://bcert.me/sqqjyozaw" target="_blank"><img width="50" height="50" src="csm-98x98.png"></a><a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank"><img width="50" height="50" src="certified-safe-6-agilist.png"></a>[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="csm-98x98.png">Certified Scrum Master</a>
 
-## Where am I
+<a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="certified-safe-6-agilist.png">Certified SAFE 6.0 Agilist</a>
+
+### Tools
+
+[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+
+## Where I am
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
@@ -18,11 +24,11 @@
 [![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
-## How am I doing
+## How I am
 
 [![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
-## Mostly here
+## Work mostly here
 
 [![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
