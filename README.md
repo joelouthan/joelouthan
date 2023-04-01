@@ -1,12 +1,12 @@
-## It's a Long Way to the Top If You Wanna Rock n' Roll by AC/DC
+## Who
 
-[![](banner.jpg)](https://theologic.us/)
+[![Here I am--CLICK ME!](banner.jpg)](https://theologic.us/)
 
-## House of Flying Daggers by Raekwon feat. Inspectah Deck, Ghostface Killah & Method Man
+## What I do
 
-<a href="https://bcert.me/sqqjyozaw" target="_blank"><img width="50" height="50" src="csm-98x98.png"></a>[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img width="50" height="50" src="csm-98x98.png"></a><a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank"><img width="50" height="50" src="certified-safe-6-agilist.png"></a>[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
-## Stand by R.E.M.
+## Where am I
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
@@ -18,11 +18,11 @@
 [![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
-## Apollo Kids by Ghostface Killah
+## How am I doing
 
 [![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
-## Work by Rihanna
+## Mostly here
 
 [![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
@@ -30,7 +30,7 @@
 
 [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
-## What Have You Done for Me Lately by Janet Jackson
+## What have I done this week
 
 [![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
