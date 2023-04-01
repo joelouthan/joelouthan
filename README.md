@@ -4,9 +4,7 @@
 
 ## What I do
 
-<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="csm-98x98.png">Certified Scrum Master</a>
-
-<a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="certified-safe-6-agilist.png">Certified SAFE 6.0 Agilist</a>
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="csm-98x98.png"></a><a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="certified-safe-6-agilist.png"></a>
 
 ### Tools
 
