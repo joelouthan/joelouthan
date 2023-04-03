@@ -42,4 +42,4 @@
 
 ## Nonstop by Drake
 
-[![GitHub Streak](https://github-readme-streak-stats-self.vercel.app?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-joelouthan.vercel.app?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
