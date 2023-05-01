@@ -36,10 +36,12 @@
 
 [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
-## What have I done this week
+<!-- ## What have I done this week
 
-[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us) -->
 
 ## Nonstop by Drake
+
+[![wakatime](https://wakatime.com/badge/user/d81b745e-0660-46a8-8754-d2a82d97647c.svg)](https://wakatime.com/@d81b745e-0660-46a8-8754-d2a82d97647c)
 
 [![GitHub Streak](https://github-readme-streak-stats-joelouthan.vercel.app?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
