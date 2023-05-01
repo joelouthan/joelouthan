@@ -1,18 +1,34 @@
-## Who
+## Quis\*
+
+*\*Who*
 
 [![Here I am--CLICK ME!](banner.jpg)](https://theologic.us/)
 
-## What I do
+## Quid*
 
-### Certs
+*\*What*
 
-<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="logo-csm-98x98.png"></a><a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank"><img style="vertical-align:middle" width="43" height="50" src="logo-SAFe-6-0-SA-Badge-rgb.png"></a>
+[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
-### Tools
+[![Writing Template Generator](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
 
-[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+[![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
-## Where I am
+## Ubi\*
+
+*\*Where*
+
+[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](
+
+[![wakatime](https://wakatime.com/badge/user/d81b745e-0660-46a8-8754-d2a82d97647c.svg)](https://wakatime.com/@d81b745e-0660-46a8-8754-d2a82d97647c)
+
+[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=joelouthan&theme=highcontrast&show_icons=True&layout=compact&range=last_7_days)](https://github.com/joelouthan/theologic.us)
+
+[![GitHub Streak](https://github-readme-streak-stats-joelouthan.vercel.app?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
+
+## Quibus auxiliis\*
+
+*\*Where*
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
@@ -24,22 +40,32 @@
 [![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
-## How I am
+## Quomodo\*
+
+*\*In What Way*
 
 [![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
-## Work mostly here
+## Quando\*
 
-[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+*\*By what means*
 
-[![Writing Template Generator](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
+[![Top Langs](https://github-readme-stats-iivg.vercel.app/api/top-langs/?username=joelouthan&theme=highcontrast&layout=compact)]
 
-[![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
+### Certs
 
-## Nonstop by Drake
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="logo-csm-98x98.png"></a><a href="https://www.credly.com/badges/9b5b9b9a-5f9f-4b9f-9b9a-5f9f4b9f9b9a/public_url" target="_blank"><img style="vertical-align:middle" width="43" height="50" src="logo-SAFe-6-0-SA-Badge-rgb.png"></a>
 
-[![wakatime](https://wakatime.com/badge/user/d81b745e-0660-46a8-8754-d2a82d97647c.svg)](https://wakatime.com/@d81b745e-0660-46a8-8754-d2a82d97647c)
+### Tools
 
-[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
 
-[![GitHub Streak](https://github-readme-streak-stats-joelouthan.vercel.app?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
+### Tiers
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=onedark)
+
+## Cur*
+
+*\*Why*
+
+>**Song of Songs 2:16a (CSB) My love is mine and I am his**
