@@ -53,5 +53,5 @@
 ### He is my Beloved and I am his forever
 
 <a href="https://theologic.us" target="_blank">
-  <img style="border-radius: 10px" src="logo-theologicus-512x.jpg" width="100%">
+  <img style="border-radius: 10px" src="logo-theologicus-512x.jpg">
 </a>
