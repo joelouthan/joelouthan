@@ -16,9 +16,7 @@
 
 ## Ubi\*
 
-*\*Where*
-
-[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](
+*\*When*
 
 [![wakatime](https://wakatime.com/badge/user/d81b745e-0660-46a8-8754-d2a82d97647c.svg)](https://wakatime.com/@d81b745e-0660-46a8-8754-d2a82d97647c)
 
@@ -46,6 +44,8 @@
 
 [![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=monokai&no-bg=true)
+
 ## Quando\*
 
 *\*By what means*
@@ -59,10 +59,6 @@
 ### Tools
 
 [![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
-
-### Tiers
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=onedark)
 
 ## Cur*
 
