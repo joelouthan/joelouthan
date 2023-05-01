@@ -44,7 +44,7 @@
 
 [![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=monokai&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=monokai&no-bg=true&&row=1)]()
 
 ## Quando\*
 
