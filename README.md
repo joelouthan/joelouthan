@@ -38,10 +38,8 @@
 
 ## Nonstop by Drake
 
-[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+[![wakatime](https://wakatime.com/badge/user/d81b745e-0660-46a8-8754-d2a82d97647c.svg)](https://wakatime.com/@d81b745e-0660-46a8-8754-d2a82d97647c)
 
-<a href="https://wakatime.com/@d81b745e-0660-46a8-8754-d2a82d97647c" target="_blank">
-  <img src="https://wakatime.com/badge/user/d81b745e-0660-46a8-8754-d2a82d97647c.svg?style=for-the-badge" width="492">
-</a>
+[![My writing stats](https://github-readme-stats-iivg.vercel.app/api/wakatime?username=@joelouthan&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
 
 [![GitHub Streak](https://github-readme-streak-stats-joelouthan.vercel.app?user=joelouthan&theme=merko&ring=FF7503&fire=EB0000)](https://git.io/streak-stats)
