@@ -50,7 +50,7 @@
 
 *\*By what means*
 
-[![Top Langs](https://github-readme-stats-iivg.vercel.app/api/top-langs/?username=joelouthan&theme=highcontrast&layout=compact)]
+[![Top Langs](https://github-readme-stats-iivg.vercel.app/api/top-langs/?username=joelouthan&theme=highcontrast&layout=compact)]()
 
 ### Certs
 
@@ -64,4 +64,4 @@
 
 *\*Why*
 
->**Song of Songs 2:16a (CSB) My love is mine and I am his**
+### He is my Beloved and I am his forever
