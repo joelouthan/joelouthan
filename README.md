@@ -1,6 +1,6 @@
 ## Quis
 
-[![Here I am--CLICK ME!](banner.jpg)](https://theologic.us/)
+[![Here I am--CLICK ME!](banner-rounded-corners.png)](https://theologic.us/)
 
 ## Quid
 
@@ -53,5 +53,5 @@
 ### He is my Beloved and I am his forever
 
 <a href="https://theologic.us" target="_blank">
-  <img style="border-radius: 10px" src="logo-theologicus-512x.jpg">
+  <img style="border-radius: 10px" src="logo-theologicus-512x-rounded-corners.png">
 </a>
