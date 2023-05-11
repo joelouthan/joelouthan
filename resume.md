@@ -1,4 +1,15 @@
-# Joseph Louthan
+---
+title: "Joseph Louthan"
+author: Joseph Louthan
+date: 2012-08-01
+categories:
+  - Personal
+tags:
+  - resume
+css: "prayers"
+showtoc: false
+draft: false
+---
 
 1380 Gastineau Ln
 Versailles, KY 40383
@@ -6,9 +17,9 @@ Versailles, KY 40383
 
 ## Summary
 
-Nearly 30 years IT experience
-Certified Scrum Master & Certified SAFe 6 Agilist
-Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft
+Nearly 30 years IT experience  
+Certified Scrum Master & Certified SAFe 6 Agilist  
+Ex-Dell, Ex-IBM, Ex-Apple & Ex-Microsoft  
 US Air Force Veteran - Still Photographer
 
 ## Technical Project Manager
