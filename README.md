@@ -1,6 +1,6 @@
 ## Quis
 
-[![Here I am--CLICK ME!](banner-rounded-corners.png)](https://theologic.us/)
+[![Here I am--CLICK ME!](images/banner-rounded-corners.png)](https://theologic.us/)
 
 ## Quid
 
@@ -42,7 +42,7 @@
 
 ### Certs
 
-<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="logo-csm-98x98.png"></a><a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank"><img style="vertical-align:middle" width="43" height="50" src="logo-SAFe-6-0-SA-Badge-rgb.png"></a>
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="images/logo-csm-98x98.png"></a><a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank"><img style="vertical-align:middle" width="43" height="50" src="images/logo-SAFe-6-0-SA-Badge-rgb.png"></a>
 
 ### Tools
 
@@ -53,5 +53,5 @@
 ### He is my Beloved and I am his forever
 
 <a href="https://theologic.us" target="_blank">
-  <img style="border-radius: 10px" src="logo-theologicus-500x.png">
+  <img style="border-radius: 10px" src="images/logo-theologicus-500x.png">
 </a>
