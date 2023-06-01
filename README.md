@@ -4,13 +4,9 @@
 
 ## Quid
 
-[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us)
+[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us) [![Writing Template Generator](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
 
-[![Book](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&theme=highcontrast)](https://github.com/joelouthan/book-theologicus)
-
-[![Writing Template Generator](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
-
-[![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
+[![Book](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&theme=highcontrast)](https://github.com/joelouthan/book-theologicus) [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
 ## Ubi
 
