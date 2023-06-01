@@ -4,9 +4,9 @@
 
 ## Quid
 
-[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&layout=donut&theme=highcontrast)](https://github.com/joelouthan/theologic.us) [![Writing Template Generator](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&layout=donut&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
+[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=theologic.us&theme=highcontrast)](https://github.com/joelouthan/theologic.us) [![Writing Template Generator](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=writing-template-generator&theme=highcontrast)](https://github.com/joelouthan/writing-template-generator)
 
-[![Book](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&layout=donut&theme=highcontrast)](https://github.com/joelouthan/book-theologicus) [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&layout=donut&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
+[![Book](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&theme=highcontrast)](https://github.com/joelouthan/book-theologicus) [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics)
 
 ## Ubi
 
@@ -30,7 +30,7 @@
 
 ## Quomodo
 
-[![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true)](https://github.com/joelouthan)
+[![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/joelouthan)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=monokai&no-bg=true&&row=1)]()
 
