@@ -44,7 +44,10 @@
 
 ### Tools
 
-[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html,rust,linux,ansible,bash,git,github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html)](https://theologic.us/contact-me/)  
+](https://skillicons.dev/icons?i=rust,linux,ansible,bash,git)](https://theologic.us/contact-me/)  
+](https://skillicons.dev/icons?i=github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+
 
 ## Cur
 
