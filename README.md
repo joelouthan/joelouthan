@@ -1,8 +1,10 @@
 ## Quis
 
+<kbd>
 <a href="https://theologic.us" target="_blank">
   <img style="border-radius: 10px" src="images/github-banner-theologicus3.png">
 </a>
+</kbd>
 
 ## Quid
 
@@ -55,7 +57,9 @@
 
 **He is my Beloved and I am his forever**
 
+<kbd>
   <a href="https://theologic.us" target="_blank">
     <img style="border-radius: 10px" src="images/logo-theologicus3.png" float="middle">
   </a>
 </p>
+</kbd>
