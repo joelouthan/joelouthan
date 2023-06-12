@@ -1,6 +1,8 @@
 ## Quis
 
-[![Here I am--CLICK ME!](images/github-banner-theologicus3.png)](https://theologic.us/)
+<a href="https://theologic.us" target="_blank">
+  <img style="border-radius: 10px" src="images/github-banner-theologicus3.png">
+</a>
 
 ## Quid
 
@@ -49,8 +51,10 @@
 
 ## Cur
 
-### He is my Beloved and I am his forever
+<p align="center">
 
-<a href="https://theologic.us" target="_blank">
-  <img style="border-radius: 10px" src="images/logo-theologicus-500x.png">
-</a>
+**He is my Beloved and I am his forever**
+  <a href="https://theologic.us" target="_blank">
+    <img style="border-radius: 10px" src="images/logo-theologicus3.png" float="middle">
+  </a>
+</p>
