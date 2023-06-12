@@ -54,6 +54,7 @@
 <p align="center">
 
 **He is my Beloved and I am his forever**
+
   <a href="https://theologic.us" target="_blank">
     <img style="border-radius: 10px" src="images/logo-theologicus3.png" float="middle">
   </a>
