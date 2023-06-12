@@ -1,6 +1,6 @@
 ## Quis
 
-[![Here I am--CLICK ME!](images/banner-rounded-corners.png)](https://theologic.us/)
+[![Here I am--CLICK ME!](images/github-banner-theologicus3.png)](https://theologic.us/)
 
 ## Quid
 
