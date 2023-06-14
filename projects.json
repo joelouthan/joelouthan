@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Site/theologicus",
+    "rootPath": "/Users/jlouthan/Sites/theologic.us",
+    "paths": [],
+    "tags": [
+      "Theologicus"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Ark",
+    "rootPath": "/Users/jlouthan/Projects/Ark/Ark.code-workspace",
+    "paths": [],
+    "tags": [
+      "Personal"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "GitHub/joelouthan",
+    "rootPath": "/Users/jlouthan/Sites/joelouthan",
+    "paths": [],
+    "tags": [
+      "GitHub",
+      "Personal"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Projects/wtg",
+    "rootPath": "/Users/jlouthan/Projects/wtg",
+    "paths": [],
+    "tags": [
+      "Personal"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "M5M/staging.m5mfoundation.org",
+    "rootPath": "/Users/jlouthan/Clients/M5M/staging.m5mfoundation.org",
+    "paths": [],
+    "tags": [
+      "Clients"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Clients/CER/CNP-Phase-1",
+    "rootPath": "/Users/jlouthan/Clients/CNP/Phase 1/CER",
+    "paths": [],
+    "tags": [
+      "Red Hat"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Ansible/nextgen-website",
+    "rootPath": "/Users/jlouthan/Sites/nextgen-website",
+    "paths": [],
+    "tags": [
+      "Red Hat"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Ansible/basics",
+    "rootPath": "/Users/jlouthan/Sites/ansible-basics",
+    "paths": [],
+    "tags": [
+      "Red Hat",
+      "Homelab"
+    ],
+    "enabled": true
+  },
+  {
+    "name": " Book/Theologicus",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus",
+    "paths": [],
+    "tags": [
+      "Personal"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Projects/Rust/mdBook",
+    "rootPath": "/Users/jlouthan/Projects/Books/mdBook",
+    "paths": [],
+    "tags": [
+      "Dev"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Projects/Rust/Projects",
+    "rootPath": "/Users/jlouthan/Projects/Rust/Rust.code-workspace",
+    "paths": [],
+    "tags": [
+      "Dev"
+    ],
+    "enabled": true
+  }
+]
