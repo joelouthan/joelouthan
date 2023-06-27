@@ -1,10 +1,28 @@
 [
   {
-    "name": "Site/theologicus",
-    "rootPath": "/Users/jlouthan/Sites/theologic.us",
+    "name": "Readme",
+    "rootPath": "/Users/jlouthan/Sites/joelouthan",
     "paths": [],
     "tags": [
-      "Theologicus"
+      "Personal"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Resume",
+    "rootPath": "/Users/jlouthan/Library/Mobile Documents/com~apple~CloudDocs/Documents/Resume",
+    "paths": [],
+    "tags": [
+      "Personal"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "theologic.us",
+    "rootPath": "/Users/jlouthan/Sites/theologic.us/site.code-workspace",
+    "paths": [],
+    "tags": [
+      "Hugo"
     ],
     "enabled": true
   },
@@ -18,85 +36,103 @@
     "enabled": true
   },
   {
-    "name": "GitHub/joelouthan",
-    "rootPath": "/Users/jlouthan/Sites/joelouthan",
-    "paths": [],
+    "name": "Rust",
+    "rootPath": "/Users/jlouthan/Projects/Rust/Rust.code-workspace",
+    "paths": [
+      "/Users/jlouthan/Projects/Rust/"
+    ],
     "tags": [
-      "GitHub",
-      "Personal"
+      "Code Everyday"
     ],
     "enabled": true
   },
   {
-    "name": "Projects/wtg",
-    "rootPath": "/Users/jlouthan/Projects/wtg",
+    "name": "wtg",
+    "rootPath": "/Users/jlouthan/Projects/writing-template-generator",
     "paths": [],
     "tags": [
-      "Personal"
+      "Code Everyday"
     ],
     "enabled": true
   },
   {
-    "name": "M5M/staging.m5mfoundation.org",
-    "rootPath": "/Users/jlouthan/Clients/M5M/staging.m5mfoundation.org",
+    "name": "Ansible",
+    "rootPath": "/Users/jlouthan/Projects/Ansible/ansible-basics.code-workspace",
     "paths": [],
     "tags": [
-      "Clients"
+      "Code Everyday"
     ],
     "enabled": true
   },
   {
-    "name": "Clients/CER/CNP-Phase-1",
-    "rootPath": "/Users/jlouthan/Clients/CNP/Phase 1/CER",
+    "name": "yumscrumptio.us",
+    "rootPath": "/Users/jlouthan/Sites/yumscrumptio.us/yumscrumptious.code-workspace",
     "paths": [],
     "tags": [
-      "Red Hat"
+      "Hugo"
     ],
     "enabled": true
   },
   {
-    "name": "Ansible/nextgen-website",
-    "rootPath": "/Users/jlouthan/Sites/nextgen-website",
-    "paths": [],
-    "tags": [
-      "Red Hat"
-    ],
-    "enabled": true
-  },
-  {
-    "name": "Ansible/basics",
-    "rootPath": "/Users/jlouthan/Sites/ansible-basics",
-    "paths": [],
-    "tags": [
-      "Red Hat",
-      "Homelab"
-    ],
-    "enabled": true
-  },
-  {
-    "name": " Book/Theologicus",
+    "name": "Book",
     "rootPath": "/Users/jlouthan/Projects/Books/theologicus",
     "paths": [],
     "tags": [
-      "Personal"
+      "Theologicus"
     ],
     "enabled": true
   },
   {
-    "name": "Projects/Rust/mdBook",
-    "rootPath": "/Users/jlouthan/Projects/Books/mdBook",
+    "name": "1689",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus/src/confession-1689/confession-1689.code-workspace",
     "paths": [],
     "tags": [
-      "Dev"
+      "Theologicus"
     ],
     "enabled": true
   },
   {
-    "name": "Projects/Rust/Projects",
-    "rootPath": "/Users/jlouthan/Projects/Rust/Rust.code-workspace",
+    "name": "Apostles' Creed",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus/src/creed-apostles/creed-apostles.code-workspace",
     "paths": [],
     "tags": [
-      "Dev"
+      "Theologicus"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Genesis",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus/src/genesis/genesis.code-workspace",
+    "paths": [],
+    "tags": [
+      "Theologicus"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Ruth",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus/src/ruth/ruth.code-workspace",
+    "paths": [],
+    "tags": [
+      "Theologicus"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Psalms",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus/src/psalms",
+    "paths": [],
+    "tags": [
+      "Theologicus"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Matthew",
+    "rootPath": "/Users/jlouthan/Projects/Books/theologicus/src/matthew/matthew.code-workspace",
+    "paths": [],
+    "tags": [
+      "Theologicus"
     ],
     "enabled": true
   }
