@@ -53,6 +53,8 @@
 
 ## Cur
 
-<p align="center">
+>Song of Solomon 2:16a (CSB) My love is mine and I am his
 
-**He is my Beloved and I am his forever**
+God loves me this I know for the Bible tells me so. Theologicus is my little attempt to tell God how much I love and adore him. For:
+
+>Psalm 17:15 (CSB) But I will see your face in righteousness; when I awake, I will be satisfied with your presence.
