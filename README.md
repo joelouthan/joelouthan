@@ -27,7 +27,6 @@
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
 [![Showwcase](https://img.shields.io/badge/Showwcase-joelouthan-D17FF3?style=for-the-badge)](https://joelouthan.showwcase.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-joelouthan-0C66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joelouthan)
 [![Instagram](https://img.shields.io/badge/Instagram-josephlouthan-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/josephlouthan/)
 [![SpaceHey](https://img.shields.io/badge/SpaceHey-josephlouthan-1C4ED8?style=for-the-badge&logo=spacehey)](https://spacehey.com/josephlouthan)
 [![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
