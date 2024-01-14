@@ -1,10 +1,9 @@
-## Quis
+# Theologicus
 
-<kbd>
-<a href="https://theologic.us" target="_blank">
-  <img style="border-radius: 10px" src="https://github.com/joelouthan/joelouthan/blob/d6a9096d12725c14c4e0d2d6273a0fc61c4618eb/images/banner-github-theologicus3.png">
-</a>
-</kbd>
+<img style="float:left; border-radius: 4px; margin-right: 15px; margin-bottom: 10px" src="images/logo-theologicus.png" width="100" align="left">Still no pen, no words, no image  
+can express to you the loveliness  
+of my only, only Lord Jesus.  
+\- Samuel Rutherford
 
 ## Quid
 
