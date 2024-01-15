@@ -8,7 +8,7 @@ of my only, only Lord Jesus.
 <br>
 ## Quid
 
-[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&theme=highcontrast)](https://github.com/joelouthan/theologicus) [![Ansible Basics](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=ansible-basics&theme=highcontrast)](https://github.com/joelouthan/ansible-basics) [![Yumscrumptio.us](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=yumscrumptio.us&theme=highcontrast)](https://github.com/joelouthan/yumscrumptio.us)
+[![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&theme=highcontrast)](https://github.com/joelouthan/theologicus) [![com.Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=com.theologicus&theme=highcontrast)](https://github.com/joelouthan/com.theologicus)
 
 ## Ubi
 
