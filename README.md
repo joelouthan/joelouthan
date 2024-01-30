@@ -44,9 +44,7 @@ of my only, only Lord Jesus.
 
 ### Tools
 
-[![tools](https://skillicons.dev/icons?i=vscode,vim,md,css,html)](https://theologic.us/contact-me/)  
-[![tools](https://skillicons.dev/icons?i=rust,linux,ansible,bash,git)](https://theologic.us/contact-me/)  
-[![tools](https://skillicons.dev/icons?i=github,gitlab,jenkins,netlify,openshift)](https://theologic.us/contact-me/)
+[![tools](https://skillicons.dev/icons?i=vscode,vim,md,swift,css,html,rust,ansible,bash,git,github,netlify)](https://theologic.us/contact-me/)
 
 
 ## Cur
