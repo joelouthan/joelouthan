@@ -40,7 +40,7 @@ of my only, only Lord Jesus.
 
 ### Certs
 
-<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="images/logo-csm-98x98.png"></a><a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank"><img style="vertical-align:middle" width="43" height="50" src="images/logo-SAFe-6-0-SA-Badge-rgb.png"></a>
+<a href="https://bcert.me/sqqjyozaw" target="_blank"><img style="vertical-align:middle" width="50" height="50" src="images/logo-csm-98x98.png"></a><a href="https://www.credly.com/badges/43000dae-5ec9-42f5-9059-8c569c278e29/public_url" target="_blank"><img style="vertical-align:middle" width="43" height="50" src="images/logo-SAFe-6-0-SA-Badge-rgb.png"></a><a hred="https://www.credly.com/badges/a0a60488-3cc6-4b95-bd4d-d73af8f25166/public_url" target="_blank"><img style="vertical-align:middle" src="https://raw.githubusercontent.com/joelouthan/joelouthan/main/images/logo-aws-ccp.png" width="50px" height="50px"></a>
 
 ### Tools
 
