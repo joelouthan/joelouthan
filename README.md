@@ -1,4 +1,4 @@
-# Theologicus
+# Theologicus: Some Expository Thoughts
 
 <img style="float:left; border-radius: 4px; margin-right: 15px; margin-bottom: 10px" src="images/logo-theologicus.png" width="100" align="left">Still no pen, no words, no image  
 can express to you the loveliness  
