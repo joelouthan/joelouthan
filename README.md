@@ -22,10 +22,7 @@ of my only, only Lord Jesus.
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
-[![Showwcase](https://img.shields.io/badge/Showwcase-joelouthan-D17FF3?style=for-the-badge)](https://joelouthan.showwcase.com)
-[![Instagram](https://img.shields.io/badge/Instagram-josephlouthan-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/josephlouthan/)
-[![SpaceHey](https://img.shields.io/badge/SpaceHey-josephlouthan-1C4ED8?style=for-the-badge&logo=spacehey)](https://spacehey.com/josephlouthan)
-[![YouTube](https://img.shields.io/badge/Youtube-Theologicus-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2OGCVvHpHJo9dTVSSDz7ZQ)
+[![TikTok](https://img.shields.io/badge/TikTok-josephlouthan-000000?style=for-the-badge)](https://www.tiktok.com/@josephlouthan)
 [![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
 
 ## Quomodo
