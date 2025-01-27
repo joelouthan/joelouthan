@@ -22,8 +22,7 @@ of my only, only Lord Jesus.
 
 [![Cell](https://img.shields.io/badge/SMS-joseph-437790?style=for-the-badge&logo=Apple)](sms:8177071486)
 [![Email](https://img.shields.io/badge/Email-joseph-success?style=for-the-badge&logo=Minutemailer)](mailto:joe@theologic.us)
-[![TikTok](https://img.shields.io/badge/TikTok-josephlouthan-000000?style=for-the-badge)](https://www.tiktok.com/@josephlouthan)
-[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://starcraft2.com/en-us/profile/1/1/9753175)
+[![StarCraft 2](https://img.shields.io/badge/StarCraft%202-Nachoz-80A6C6?style=for-the-badge)](https://liquipedia.net/starcraft2/User:Nachoz)
 
 ## Quomodo
 
