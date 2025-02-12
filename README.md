@@ -4,6 +4,12 @@
 can express to you the loveliness  
 of my only, only Lord Jesus.  
 \- Samuel Rutherford
+
+Trying to spend all of my days with God. I belong to my Beloved and my Beloved is mine forevermore. Also, Sarah's husband and Papa to a few kiddos. In Central Kentucky. Member & Elder Candidate of [Reforming Truth Church](https://reformingtruth.church/). Joyfully ex-Evangelical turned [Reformed Baptist--1689 Confessional](https://theologic.us/confession-1689/).
+
+All of my life to live all of my days to express just how much God loves us. Hope to preach the goodness of God. Therefore, [Theologicus](https://theologic.us/) is my attempt to prepare so that one day I can preach every day for the rest of my life and twice on Sunday--for the sake of his great name and his glory alone.
+
+And if I have fifteen minutes to spare in my day, I'm intensely mediocre at [StarCraft 2](https://starcraft2.blizzard.com/en-us/).
 <br>
 <br>
 ## Quid
