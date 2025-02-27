@@ -6,7 +6,7 @@ of my only, only Lord Jesus.
 \- Samuel Rutherford
 <br>
 <br>
-Hello! My name is Joseph L. Louthan. I am trying to spend all of my days with God. Sarah's husband and a Papa to a few kiddos. Living in Central Kentucky. An elder candidate of [Reforming Truth Church](https://reformingtruth.church/). Joyfully ex-Evangelical turned [Reformed Baptist--1689 Confessional](https://theologic.us/confession-1689/).
+Hello! My name is Joseph L. Louthan. Trying to spend all of my days with God. Sarah's husband and a Papa to a few kiddos. Living in Central Kentucky. An elder candidate of [Reforming Truth Church](https://reformingtruth.church/). Joyfully ex-Evangelical turned [Reformed Baptist--1689 Confessional](https://theologic.us/confession-1689/).
 
 This blog is a collection of writings--[devotional, expository thoughts](https://theologic.us) on the gospel of God--the good news of what Christ has done for us.
 
