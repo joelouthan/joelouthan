@@ -22,8 +22,8 @@ And if I have fifteen minutes to spare in my day, I'm intensely mediocre at [Sta
 
 ## Talks
 
-[Writing Prose as Code](https://docs.google.com/presentation/d/1y8c2s9OyBcvazoSoTUZDPbIM3T6Yyq-4beeTq_eovTM/edit?usp=sharing) - *given at [Lex Talk Tech 2026](https://lextalk.tech/)*
-![alt text](images/wpac-title.png)
+**[Writing Prose as Code](https://docs.google.com/presentation/d/1y8c2s9OyBcvazoSoTUZDPbIM3T6Yyq-4beeTq_eovTM/edit?usp=sharing)** - *given at [Lex Talk Tech 2026](https://lextalk.tech/)*
+![Presentation on "Writing Prose as Code"](images/wpac-title.png)(<https://docs.google.com/presentation/d/1y8c2s9OyBcvazoSoTUZDPbIM3T6Yyq-4beeTq_eovTM/edit?usp=sharing>)
 
 
 ## Quid
