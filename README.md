@@ -19,6 +19,14 @@ Theologicus is my personal confession of faith--[devotional and expository thoug
 And if I have fifteen minutes to spare in my day, I'm intensely mediocre at [StarCraft 2](https://starcraft2.blizzard.com/en-us/).
 <br>
 <br>
+
+## Talks
+
+[Writing Prose as Code](https://docs.google.com/presentation/d/1y8c2s9OyBcvazoSoTUZDPbIM3T6Yyq-4beeTq_eovTM/edit?usp=sharing)
+![alt text](images/wpac-title.png)
+- *given at [Lex Talk Tech 2026](https://lextalk.tech/)*
+
+
 ## Quid
 
 [![Theologicus](https://github-readme-stats-iivg.vercel.app/api/pin/?username=joelouthan&repo=book-theologicus&theme=highcontrast)](https://github.com/joelouthan/theologicus)
