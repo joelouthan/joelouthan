@@ -16,7 +16,7 @@ Theologicus is a personal confession of faith--[devotional and expository though
 >
 >But I received mercy for this reason, so that in me, the worst of them, Christ Jesus might demonstrate his extraordinary patience as an example to those who would believe in him for eternal life. Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 
-And if I have fifteen minutes to spare in my day, I'm intensely mediocre at [StarCraft 2](https://starcraft2.blizzard.com/en-us/).
+And if I have fifteen minutes to spare in my day, I'm powerfully mediocre at [StarCraft 2](https://starcraft2.blizzard.com/en-us/).
 <br>
 <br>
 
