@@ -46,7 +46,7 @@ And if I have fifteen minutes to spare in my day, I'm powerfully mediocre at [St
 
 [![Stats](https://github-readme-stats-iivg.vercel.app/api?username=joelouthan&show_icons=true&line_height=27&count_private=true&theme=highcontrast&hide=contribs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github)](https://github.com/joelouthan)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joelouthan&theme=monokai&no-bg=true&&row=1)]()
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=joelouthan&theme=monokai&no-bg=true&&row=1)]()
 
 ## Quando
 
